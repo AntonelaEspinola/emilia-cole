@@ -2,7 +2,7 @@
 
 .home {
   background-image: url("/images/emilia-home.jpg");
-  background-size: 73% 600px;
+  background-size: 73% 100vh;
   background-repeat: no-repeat;
   background-position: 380px 0;
   font-family: "Open Sans", sans-serif;

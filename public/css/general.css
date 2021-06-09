@@ -3,10 +3,26 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
 }
 a{
     text-decoration: none;
 }
 li{
     list-style: none;
+}
+
+.fa-twitter:hover{
+    color: lightskyblue;
+}
+.fa-instagram:hover{
+    color: coral;
+}
+.fa-spotify:hover{
+    color: green;
+}
+
+.fa-apple:hover{
+    color: gray;
 }
